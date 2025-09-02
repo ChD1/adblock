@@ -1,6 +1,61 @@
+# === Calltouch ===
 0.0.0.0 calltouch.ru
 0.0.0.0 *.calltouch.ru
+0.0.0.0 callday.ru
+0.0.0.0 *.callday.ru
+0.0.0.0 business-index.ru
+0.0.0.0 *.business-index.ru
+
+# === CoMagic ===
+0.0.0.0 comagic.ru
+0.0.0.0 *.comagic.ru
+
+# === Roistat ===
+0.0.0.0 roistat.ru
+0.0.0.0 *.roistat.ru
+
+# === Ringostat ===
+0.0.0.0 ringostat.com
+0.0.0.0 *.ringostat.com
+
+# === UIS (Облачная телефония) ===
+0.0.0.0 uiscom.ru
+0.0.0.0 *.uiscom.ru
+
+# === Mango Office ===
+0.0.0.0 mango-office.ru
+0.0.0.0 *.mango-office.ru
+
+# === Zadarma ===
+0.0.0.0 zadarma.com
+0.0.0.0 *.zadarma.com
+
+# === Callibri / Alloka / LP-CRM ===
+0.0.0.0 callibri.ru
+0.0.0.0 *.callibri.ru
+0.0.0.0 alloka.ru
+0.0.0.0 *.alloka.ru
+0.0.0.0 lp-crm.biz
+0.0.0.0 *.lp-crm.biz
+
+# === Яндекс.Метрика ===
+0.0.0.0 metrika.yandex.ru
 0.0.0.0 mc.yandex.com
 0.0.0.0 *.mc.yandex.com
+0.0.0.0 webvisor.com
+
+# === Яндекс AppMetrica (мобильная аналитика) ===
+0.0.0.0 appmetrica.yandex.com
+0.0.0.0 redirect.appmetrica.yandex.com
+0.0.0.0 impression.appmetrica.yandex.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 appmetrika.yandex.ru
+
+# === VK Analytics ===
 0.0.0.0 vk-analytics.ru
 0.0.0.0 *.vk-analytics.ru
+
+# === Mail.ru / Rambler счетчики ===
+0.0.0.0 top.mail.ru
+0.0.0.0 counter.rambler.ru
+0.0.0.0 top100.rambler.ru
