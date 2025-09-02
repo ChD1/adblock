@@ -59,3 +59,25 @@
 0.0.0.0 top.mail.ru
 0.0.0.0 counter.rambler.ru
 0.0.0.0 top100.rambler.ru
+
+# Блокировка доменов аналитики и трекинга
+0.0.0.0 cc.calltracking.ru
+0.0.0.0 mod.calltouch.ru
+0.0.0.0 cdn.callibri.ru
+0.0.0.0 gcdn.callibri.ru
+0.0.0.0 collector.roistat.com
+0.0.0.0 app.comagic.ru
+0.0.0.0 custom.comagic.ru
+0.0.0.0 server.comagic.ru
+0.0.0.0 analytics.alloka.ru
+0.0.0.0 stats.lptracker.ru
+0.0.0.0 ringostat.net
+0.0.0.0 ringostat.com
+0.0.0.0 dct.mango-office.ru
+0.0.0.0 stat.clickfrog.ru
+0.0.0.0 www.google-analytics.com
+0.0.0.0 ssl.google-analytics.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 mc.yandex.ru
+0.0.0.0 mc.yandex.com
+0.0.0.0 utmstat.com
