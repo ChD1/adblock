@@ -1,0 +1,6 @@
+0.0.0.0 calltouch.ru
+0.0.0.0 *.calltouch.ru
+0.0.0.0 mc.yandex.com
+0.0.0.0 *.mc.yandex.com
+0.0.0.0 vk-analytics.ru
+0.0.0.0 *.vk-analytics.ru
